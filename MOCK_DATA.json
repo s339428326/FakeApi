@@ -44,7 +44,7 @@
     "CC": "PL",
     "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
     "course": {
-      "name": "Playing Scales for Classical and Finger-Style Guitar",
+      "name": "Playing Scales for Finger-Style Guitar",
       "price": "$2,290",
       "discountPrice": "$399",
       "studentNumber": "1256",
@@ -62,7 +62,7 @@
     "CC": "FR",
     "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
     "course": {
-      "name": "Complete Guitar Lessons System - Beginner to Advanced",
+      "name": "Complete Guitar Lessons System",
       "price": "$2,690",
       "discountPrice": "$399",
       "studentNumber": "4561",
@@ -80,7 +80,7 @@
     "CC": "PH",
     "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
     "course": {
-      "name": "Love Guitar – The Real Beginner's Series",
+      "name": "The Real Beginner's Series",
       "price": "$670",
       "discountPrice": "$670",
       "studentNumber": "345",
@@ -98,7 +98,7 @@
     "CC": "UA",
     "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
     "course": {
-      "name": "Complete Fingerstyle Guitar Lessons - Beginner Fingerpicking",
+      "name": "Complete Fingerstyle Lessons",
       "price": "$2,290",
       "discountPrice": "$670",
       "studentNumber": "1890",
@@ -116,7 +116,7 @@
     "CC": "ID",
     "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
     "course": {
-      "name": "Fingerstyle Guitar For Beginners | STEP BY STEP Course",
+      "name": "Fingerstyle For Beginners",
       "price": "$1,690",
       "discountPrice": "$390",
       "studentNumber": "3216",
@@ -134,7 +134,7 @@
     "CC": "CN",
     "avatar": "https://randomuser.me/api/portraits/women/43.jpg",
     "course": {
-      "name": "Fingerstyle Guitar For Beginners | STEP BY STEP Course",
+      "name": "Fingerstyle For Beginners",
       "price": "$1,690",
       "discountPrice": "$390",
       "studentNumber": "3216",
@@ -152,7 +152,7 @@
     "CC": "PK",
     "avatar": "https://randomuser.me/api/portraits/men/41.jpg",
     "course": {
-      "name": "Fingerstyle Guitar STEP BY STEP: Learn Songs & Arrangements",
+      "name": "Fingerstyle STEP BY STEP",
       "price": "$2,690",
       "discountPrice": "$390",
       "studentNumber": "4858",
@@ -170,7 +170,7 @@
     "CC": "PH",
     "avatar": "https://randomuser.me/api/portraits/women/48.jpg",
     "course": {
-      "name": "3 Awesome Fingerstyle Guitar Songs of All Time -STEP BY STEP",
+      "name": "3 Awesome Fingerstyle Songs",
       "price": "$990",
       "discountPrice": "$390",
       "studentNumber": "371",
